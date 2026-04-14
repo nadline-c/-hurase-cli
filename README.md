@@ -7,6 +7,22 @@
  * 🤖 **Context-Aware AI (Coming Soon):** Intelligent code generation that understands your project structure.
  * 🛠️ **Zero Runtime Overhead:** Hurase disappears after build; only pure, high-performance Hono.js remains.
 
+### 🖼️ Hurase CLI Showcase
+
+| 🛠️ Step 1: Initialization | 📦 Step 2: Database Setup |
+| :---: | :---: |
+| ![Init](https://github.com/nadline-c/-hurase-cli/blob/main/assets/IMG-20260414-WA0004.jpg?raw=true) | ![Database](https://raw.githubusercontent.com/nadline-c/-hurase-cli/refs/heads/main/assets/IMG-20260414-WA0005.jpg) |
+| *Create your project DNA in **19ms*** | *Choose your favorite ORM/DB* |
+
+<br />
+
+| 🚀 Step 3: Architecture | 📊 Step 4: Project Overview |
+| :---: | :---: |
+| ![Structure](https://raw.githubusercontent.com/nadline-c/-hurase-cli/refs/heads/main/assets/IMG-20260414-WA0001.jpg) | ![Info](https://raw.githubusercontent.com/nadline-c/-hurase-cli/refs/heads/main/assets/IMG-20260414-WA0001.jpg) |
+| *Clean Modular Monolith Layout* | *Track versions and project metadata* |
+
+
+
 ## 📦 Installation
 ```bash
 npm i -g @hurase/cli
@@ -14,7 +30,6 @@ npm i -g @hurase/cli
 ```
 ## 🛠️ Quick Start
 ### 1. Initialize a new project
-![Hurase init](https://raw.githubusercontent.com/nadline-c/-hurase-cli/refs/heads/main/assets/IMG-20260414-WA0001.jpg)
 ```bash
 hurase init
 
