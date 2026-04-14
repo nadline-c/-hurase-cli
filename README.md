@@ -14,6 +14,7 @@ npm i -g @hurase/cli
 ```
 ## 🛠️ Quick Start
 ### 1. Initialize a new project
+![Hurase init](https://raw.githubusercontent.com/nadline-c/-hurase-cli/refs/heads/main/assets/IMG-20260414-WA0001.jpg)
 ```bash
 hurase init
 
