@@ -9,7 +9,7 @@
 
 ### 🖼️ Hurase CLI Showcase
 
-| 🛠️ Step 1: Initialization | 📦 Step 2: Database Setup |
+| 🛠️ Step 1: Initialization | 📦 Step 1: Database Setup |
 | :---: | :---: |
 | ![Init](https://github.com/nadline-c/-hurase-cli/blob/main/assets/IMG-20260414-WA0004.jpg?raw=true) | ![Database](https://raw.githubusercontent.com/nadline-c/-hurase-cli/refs/heads/main/assets/IMG-20260414-WA0005.jpg) |
 | *Create your project DNA in **19ms*** | *Choose your favorite ORM/DB* |
