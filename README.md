@@ -65,9 +65,9 @@ Hurase enforces a clean, industry-standard directory layout:
 Hurase follows the **Tooling vs Framework** philosophy. We provide the scaffolding and the automation, giving you full control over your code without any vendor lock-in.
 ## 🌐 Roadmap
  * [x] Core CLI Engine (v0.10.0)
- * [ ] Advanced Schema Injection (v0.15.0)
- * [ ] **Hurase AI Integration** (v0.21.0)
+ * [ ] Advanced code Injection (v0.20.0)
  * [ ] Official v1.0.0 Release
+ * [ ] **Hurase AI Integration and hurase hub platform** (v2.0.0)
 ## 👨‍💻 Author
 
 Proudly part of **SHG (Saad Hammam Group)**.
