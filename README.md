@@ -16,7 +16,7 @@
 
 <br />
 
-| 🚀 Step 3: Architecture | 📊 Step 4: Project Overview |
+| 🚀 Step 2: Architecture | 📊 Step 3: Project Overview |
 | :---: | :---: |
 | ![Structure](https://raw.githubusercontent.com/nadline-c/-hurase-cli/refs/heads/main/assets/IMG-20260414-WA0001.jpg) | ![Info](https://raw.githubusercontent.com/nadline-c/-hurase-cli/refs/heads/main/assets/IMG-20260414-WA0001.jpg) |
 | *Clean Modular Monolith Layout* | *Track versions and project metadata* |
